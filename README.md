@@ -1,3 +1,9 @@
-# Personal_Website
+# Matt Ramis Personal Website
 
-Create a personal website using a team programming approach. Website will have 3 main areas, the landing page, an about page, and a portfolio page. We will also include a basic JS similar to "hello world"
+Hello World! I am Matt Ramis and this is my repository contains the code for my personal website.
+
+To clone this website for local viewing run
+
+```bash
+    git clone git@github.com:Matt-Ramis-Personal-Website/Personal_Website.git
+```
