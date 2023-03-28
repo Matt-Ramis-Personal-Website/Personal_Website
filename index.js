@@ -5,3 +5,5 @@ if (person == null || person == "") {
 } else {
   text = "Hello " + person + "!";
 }
+
+window.alert(text);
